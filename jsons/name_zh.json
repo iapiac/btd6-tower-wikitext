@@ -1,0 +1,530 @@
+{
+    "dart": [
+        [
+            "Sharp Shots",
+            "Razor Sharp Shots",
+            "Spike-o-pult",
+            "Juggernaut",
+            "Ultra-Juggeranut"
+        ],
+        [
+            "Quick Shots",
+            "Very Quick Shots",
+            "Triple Darts",
+            "Super Monkey Fan Club",
+            "Plasma Monkey Fan Club"
+        ],
+        [
+            "Long Range Darts",
+            "增强视力",
+            "十字弩",
+            "Sharp Shooter",
+            "十字弩神射手"
+        ],
+        "Apex Plasma Master"
+    ],
+    "boomer": [
+        [
+            "Improved Rangs",
+            "Glaives",
+            "Glaive Ricochet",
+            "M.O.A.R. Glaives",
+            "Glaive Lord"
+        ],
+        [
+            "Faster Throwing",
+            "Faster Rangs",
+            "Biomic Boomerang",
+            "Turbo Charge",
+            "Perma Charge"
+        ],
+        [
+            "Long Range Rangs",
+            "Red Hot Rangs",
+            "凯莉回旋镖",
+            "MOAB压制",
+            "MOAB Domination"
+        ],
+        "Glaive Dominus"
+    ],
+    "bomb": [
+        [
+            "Bigger Bombs",
+            "Heavy Bombs",
+            "Really Big Bombs",
+            "Bloon Impact",
+            "Bloon Crush"
+        ],
+        [
+            "Faster Reload",
+            "Missile Launcher",
+            "MOAB Mauler",
+            "MOAB Assassin",
+            "MOAB Eliminator"
+        ],
+        [
+            "Extra Range",
+            "Frag Bombs",
+            "集束炸弹",
+            "Recursive Bombs",
+            "Bomb Blitz"
+        ],
+        ""
+    ],
+    "tack": [
+        [
+            "Faster Shooting",
+            "Even Faster Shooting",
+            "Hot Shots",
+            "Ring of Fire",
+            "Inferno Ring"
+        ],
+        [
+            "Long Range Tacks",
+            "Super Range Tacks",
+            "Blade Shooter",
+            "Blade Maelstrom",
+            "Super Maelstrom"
+        ],
+        [
+            "More Tacks",
+            "Even More Tacks",
+            "Tack Sprayer",
+            "超速",
+            "The Tack Zone"
+        ],
+        ""
+    ],
+    "ice": [
+        [
+            "Permafrost",
+            "Cold Snap",
+            "Ice Shards",
+            "Embrittlement",
+            "Super Brittle"
+        ],
+        [
+            "Enhanced Freeze",
+            "Deep Freeze",
+            "北极风",
+            "暴风雪",
+            "绝对零度"
+        ],
+        [
+            "Larger Radius",
+            "Re-Freeze",
+            "冷冻大炮",
+            "Icicles",
+            "Icicle Impale"
+        ],
+        ""
+    ],
+    "glue": [
+        [
+            "Glue Soak",
+            "Corrosive Glue",
+            "Bloon Dissolver",
+            "Bloon Liquefier",
+            "气球终结者"
+        ],
+        [
+            "Bigger Globs",
+            "Glue Splatter",
+            "Glue Hose",
+            "Glue Strike",
+            "Glue Storm"
+        ],
+        [
+            "Stickier Glue",
+            "Stronger Glue",
+            "MOAB Glue",
+            "Relentless Glue",
+            "超级胶水"
+        ],
+        ""
+    ],
+    "sniper": [
+        [
+            "Full Metal Jacket",
+            "Large Calibre",
+            "Deadly Precision",
+            "Maim MOAB",
+            "Cripple MOAB"
+        ],
+        [
+            "Night Vision Googles",
+            "Shrapnel Shot",
+            "Bouncing Bullet",
+            "Supply Drop",
+            "Elite Sniper"
+        ],
+        [
+            "Fast Firing",
+            "Even Fast Firing",
+            "Semi-Automatic",
+            "Full Auto Rifle",
+            "Elite Defender"
+        ],
+        ""
+    ],
+    "sub": [
+        [
+            "Longer Range",
+            "Advanced Intel",
+            "Submerge and Support",
+            "Bloontonium Reactor",
+            "Energizer"
+        ],
+        [
+            "Barbed Darts",
+            "Heat-Tipped Darts",
+            "Ballistic Missile",
+            "First Strike Capability",
+            "Pre-Emptive Strike"
+        ],
+        [
+            "Twin Guns",
+            "Airburst Darts",
+            "三枪",
+            "穿甲飞镖",
+            "潜艇指挥官"
+        ],
+        ""
+    ],
+    "bucc": [
+        [
+            "Faster Shooting",
+            "Double Shot",
+            "驱逐舰",
+            "航空母舰",
+            "航母旗舰"
+        ],
+        [
+            "Grape Shot",
+            "Hot Shot",
+            "Cannon Ship",
+            "Monkey Pirates",
+            "Pirate Lord"
+        ],
+        [
+            "Long Range",
+            "Crow's Nest",
+            "商船",
+            "精明交易",
+            "贸易帝国"
+        ],
+        "海洋主宰"
+    ],
+    "ace": [
+        [
+            "Rapid Fire",
+            "Lots More Darts",
+            "战斗机",
+            "Operation: Dart Storm",
+            "Sky Shredder"
+        ],
+        [
+            "Exploding Pineapple",
+            "Spy Plane",
+            "Bomber Ace",
+            "夷为平地",
+            "Tsar Bomba"
+        ],
+        [
+            "Sharper Darts",
+            "Centered Path",
+            "Neva-Miss Targeting",
+            "幽灵",
+            "飞行堡垒"
+        ],
+        "巨人末日飞船"
+    ],
+    "heli": [
+        [
+            "Quad Darts",
+            "Pursuit",
+            "Razor Rotors",
+            "阿帕奇飞镖舰",
+            "阿帕奇精英"
+        ],
+        [
+            "Bigger Jets",
+            "IFR",
+            "Downdraft",
+            "Support Chinook",
+            "特种作战"
+        ],
+        [
+            "Faster Darts",
+            "Faster Firing",
+            "MOAB撞击",
+            "科曼奇防御",
+            "科曼奇指挥官"
+        ],
+        ""
+    ],
+    "mortar": [
+        [
+            "Bigger Blast",
+            "Bloon Buster",
+            "炮弹冲击",
+            "The Big One",
+            "The Biggest One"
+        ],
+        [
+            "Faster Reload",
+            "Rapid Reload",
+            "重型炮弹",
+            "Artillery Battery",
+            "Pop and Awe"
+        ],
+        [
+            "Increased Accurancy",
+            "Burny Stuff",
+            "信号弹",
+            "碎甲弹",
+            "Blooncineration"
+        ],
+        ""
+    ],
+    "dartling": [
+        [
+            "Focused Firing",
+            "激光冲击",
+            "激光炮",
+            "等离子加速器",
+            "毁灭之光"
+        ],
+        [
+            "Advanced Targeting",
+            "Faster Barrel Spin",
+            "九头蛇火箭舱",
+            "火箭风暴",
+            "M.A.D"
+        ],
+        [
+            "Faster Swivel",
+            "Powerful Darts",
+            "铅弹",
+            "Bloon Area Denial System",
+            "气球禁区"
+        ],
+        ""
+    ],
+    "wizard": [
+        [
+            "Guided Magic",
+            "Arcane Blast",
+            "Arcane Mastery",
+            "Arcane Spike",
+            "大法师"
+        ],
+        [
+            "Fireball",
+            "火墙",
+            "Dragon's Breath",
+            "Summon Phoenix",
+            "Wizard Lord Phoenix"
+        ],
+        [
+            "Intense Magic",
+            "Monkey Sense",
+            "微光",
+            "Necromancer: Unpopped Army",
+            "黑暗王子"
+        ],
+        ""
+    ],
+    "super": [
+        [
+            "Laser Blasts",
+            "Plasma Blasts",
+            "太阳化身",
+            "太阳神庙",
+            "真正的太阳神"
+        ],
+        [
+            "Super Range",
+            "Epic Range",
+            "机器猴",
+            "科技恐怖",
+            "反气球"
+        ],
+        [
+            "Knockback",
+            "Ultravision",
+            "黑暗骑士",
+            "黑暗冠军",
+            "黑夜传说"
+        ],
+        ""
+    ],
+    "ninja": [
+        [
+            "忍者戒律",
+            "Sharp Shurikens",
+            "Double Shot",
+            "Bloonjitsu",
+            "大师忍者"
+        ],
+        [
+            "Distraction",
+            "反间谍",
+            "Shinobi Tactics",
+            "气球破坏",
+            "大破坏者"
+        ],
+        [
+            "Seeking Shuriken",
+            "Caltrops",
+            "闪光弹",
+            "粘性炸弹",
+            "Master Bomber"
+        ],
+        "Ascended Shadow"
+    ],
+    "alch": [
+        [
+            "Larger Potions",
+            "Acidic Mixture Dip",
+            "Berserker Brew",
+            "强效兴奋剂",
+            "Permanent Brew"
+        ],
+        [
+            "Stronger Acid",
+            "Perishing Potions",
+            "不稳定混合物",
+            "Transforming Tonic",
+            "Total Transformation"
+        ],
+        [
+            "Faster Throwing",
+            "Acid Pool",
+            "点铅成金",
+            "点胶成金",
+            "气球大师炼金术士"
+        ],
+        ""
+    ],
+    "druid": [
+        [
+            "Hard Thorns",
+            "Heart of Thunder",
+            "风暴德鲁伊",
+            "Ball Lightning",
+            "Superstorm"
+        ],
+        [
+            "Thorn Swarm",
+            "橡树之心",
+            "丛林德鲁伊",
+            "Jungle's Bounty",
+            "Spirit of the Forest"
+        ],
+        [
+            "Druidic Reach",
+            "Heart of Vengeance",
+            "Druid of Wrath",
+            "Poplust",
+            "愤怒的化身"
+        ],
+        ""
+    ],
+    "farm": [
+        [
+            "Increased Production",
+            "Greater Production",
+            "Banana Plantation",
+            "香蕉研究所",
+            "香蕉中心"
+        ],
+        [
+            "Long Life Bananas",
+            "Valuable Bananas",
+            "猴子银行",
+            "IMF贷款",
+            "Monkey-Nomics"
+        ],
+        [
+            "EZ Collect",
+            "香蕉抢收",
+            "市场",
+            "Central Market",
+            "猴子华尔街"
+        ],
+        ""
+    ],
+    "spactory": [
+        [
+            "Bigger Stacks",
+            "White Hot Spikes",
+            "Spiked Balls",
+            "Spiked Mines",
+            "Super Mines"
+        ],
+        [
+            "Faster Production",
+            "Even Faster Production",
+            "MOAB SHREDR",
+            "Spike Storm",
+            "刺钉地毯"
+        ],
+        [
+            "Long Reach",
+            "智能刺钉",
+            "长寿刺钉",
+            "致命刺钉",
+            "永久刺钉"
+        ],
+        ""
+    ],
+    "village": [
+        [
+            "Bigger Radius",
+            "丛林鼓",
+            "Primary Training",
+            "Primary Mentoring",
+            "Primary Expertise"
+        ],
+        [
+            "Grow Blocker",
+            "Radar Scanner",
+            "猴子情报局",
+            "Call to Arms",
+            "国土防御"
+        ],
+        [
+            "Monkey Business",
+            "Monkey Commerce",
+            "猴镇",
+            "猴城",
+            "Monkeyopolis"
+        ],
+        ""
+    ],
+    "engineer": [
+        [
+            "哨兵枪",
+            "Faster Engineering",
+            "链轮",
+            "哨兵专家",
+            "哨兵冠军"
+        ],
+        [
+            "Larger Service Area",
+            "解构",
+            "清洁泡沫",
+            "超频",
+            "Ultraboost"
+        ],
+        [
+            "大号钉子",
+            "大头针",
+            "双枪",
+            "气球陷阱",
+            "特大陷阱"
+        ],
+        "大师建造者"
+    ]
+}
