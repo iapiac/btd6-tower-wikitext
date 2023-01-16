@@ -1,1 +1,61 @@
-# 我也不知道这玩意是用来干啥的先这么整吧
+import json
+
+TOWER_NAME = 'farm'
+
+str100 = '''
+|-
+| style="background:#00BFFF" rowspan="2" | {} || style="width:20%" | (自己填) || style="width:20%" | {} || style="width:20%" | ${} || style="width:20%" | {}XP
+|-
+| colspan="4" style="text-align:left;" | (自己填)'''
+
+str5 = '''
+|- style="background:#FFD700"
+| style="background:#FFA500" rowspan="2" | {} || (自己填) || {} || ${} || {}XP
+|- style="background:#FFD700"
+| colspan="4" style="text-align:left;" | (自己填)'''
+
+strother = '''
+|-
+| style="background:#00BFFF" rowspan="2" | {} || (自己填) || {} || ${} || {}XP
+|-
+| colspan="4" style="text-align:left;" | (自己填)'''
+
+result = ''' class="wikitable mw-collapsible" style="text-align:center;width:100%;background:#90DDFF"
+|- style="font-weight:bold;background:#1E90FF"
+| style="width:10%" | 等级 || colspan="4" | 等级效果
+|-
+| style="background:#00BFFF" rowspan=2 | 0<br>(基础) || ${} || 射程32 || 占地6 || 初始解锁
+|-
+| colspan="4" style="text-align:left;" | '''
+
+f = open('jsons/exp.json')
+exp = json.load(f)
+f.close()
+f = open('jsons/price.json')
+price = json.load(f)
+f.close()
+f = open('jsons/name_en.json')
+name = json.load(f)
+f.close()
+
+result = '{|'+result.format(price[TOWER_NAME][0])
+
+for i in range(3):
+    result += "\n|-\n| style=\"background:#00BFFF\" colspan=5 | '''路线{}'''".format(
+        i+1)
+    for j in range(5):
+        xp = exp[TOWER_NAME][i][j]
+        cost = price[TOWER_NAME][i+1][j]
+        enname = name[TOWER_NAME][i][j]
+        if i == 0 and j == 0:
+            result += str100.format(1, enname, cost, xp)
+        elif j == 4:
+            result += str5.format(5, enname, cost, xp)
+        else:
+            result += strother.format(j+1, enname, cost, xp)
+
+result += '\n|-\n|}'
+
+f = open(TOWER_NAME+'_out.txt', 'w', encoding='utf-8')
+f.write(result)
+f.close()
